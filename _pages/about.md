@@ -30,7 +30,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/ECCV2022_framework.pdf" width="800" />
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/ECCV2022_framework.pdf" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
@@ -47,7 +47,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/CIKM2022_framework.pdf" width="800" />
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/CIKM2022_framework.pdf" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Xueying Yang, <b>Jiamian Wang</b>, Sheng Li, Zhiqiang Tao.<br>
@@ -62,7 +62,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/S2VIT_coverfig.pdf" width="800" />
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/S2VIT_coverfig.pdf" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
@@ -77,7 +77,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/HSIbaseline_coverfig.pdf" width="800" />
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/HSIbaseline_coverfig.pdf" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
@@ -92,7 +92,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/OE_fig.pdf" width="800" />
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/OE_fig.pdf" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, <b>Jiamian Wang</b><br>
