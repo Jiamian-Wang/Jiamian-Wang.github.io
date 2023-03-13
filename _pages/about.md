@@ -40,7 +40,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper</a></span><br>
     <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI">Code</a></span><br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/youtube_icon.jpeg" width="20" height="20" hspace="5">
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/youtube_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.youtube.com/watch?v=vzGV-trPqnI">Video</a></span><br>
   </td>
 </tr>
