@@ -11,9 +11,9 @@ title                    : "Jiamian Wang personal website"
 title_separator          : "-"
 name                     : &name "Jiamian Wang"
 description              : &description "PhD student at RIT"
-url                      : https://github.com/Jiamian-Wang/Jiamian-Wang.github.io.git # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Jiamian-Wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jiamian-Wang.github.io"
+repository               : "Jiamian-Wang/Jiamian-Wang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
