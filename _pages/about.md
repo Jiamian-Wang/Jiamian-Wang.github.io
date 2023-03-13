@@ -30,7 +30,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/ECCV2022_framework.png" width="800" />
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/ECCV2022_framwork.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
