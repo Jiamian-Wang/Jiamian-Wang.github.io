@@ -20,7 +20,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
  I have a high passion for exploiting/measuring the trustworthiness/reliability of the novel deep learning models and \
  expedite the deployment of cutting-edge cameras/sensors with deep learning-based [solutions](https://arxiv.org/pdf/2112.15362.pdf).
 
- I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible \
+ 🔥🔥I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible \
  starting date (Summer, Fall, or Spring). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!
 
 
@@ -35,7 +35,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
     "<i>Modeling Mask Uncertainty in Hyperspectral Image Reconstruction</i>".<br>
-    <b>ECCV Oral</b>, 2022.<br>
+    <b>ECCV Oral (2.7%)</b>, 2022.<br>
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper</a></span><br>
     <span><a href="https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI">Code</a></span><br>
     <span><a href="https://www.youtube.com/watch?v=vzGV-trPqnI">Video</a></span><br>
@@ -73,7 +73,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
     <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/HSIbaseline_coverfig.pdf" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Jiamian Wang<\b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
+    <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
     "<i>A new backbone for hyperspectral image reconstruction</i>".<br>
     <b>Arxiv</b>, 2022.<br>
     <span><a href="https://arxiv.org/pdf/2108.07739.pdf">Arxiv</a></span><br>
@@ -86,7 +86,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
     <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/OE_fig.pdf" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, <b>Jiamian Wang<\b><br>
+    Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, <b>Jiamian Wang</b><br>
     "<i>OUTLIER EXPOSURE WITH CONFIDENCE CONTROL FOR OUT-OF-DISTRIBUTION DETECTION</i>".<br>
     <b>Neurocomputing</b>, 2021.<br>
     <span><a href="https://arxiv.org/pdf/1906.03509.pdf">Arxiv</a></span><br>
