@@ -10,7 +10,8 @@ redirect_from:
 ---
 ## About Me
 
-Hi! I'm Jiamian Wang (王加冕). I'm a first-year Ph.D. student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, advised by Dr. [Zhiqiang Tao](https://ztao.cc/research.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018, respectively.
+
+I'm Jiamian Wang (王加冕). I'm a first-year Ph.D. student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, advised by Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018, respectively.
 
 My research interest includes Hyperspectral Image Reconstruction, Uncertainty Estimation, and Image Super-Resolution. I have a high passion for exploiting/measuring the trustworthiness/reliability of the novel deep learning models and expedite the deployment of cutting-edge cameras/sensors with deep learning-based [solutions](https://arxiv.org/pdf/2112.15362.pdf).
 
@@ -23,7 +24,7 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="blob/master/images/papers/ECCV2022_framwork.png" width="800" />
+    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/ECCV2022_framwork.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
@@ -55,7 +56,7 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/S2VIT_coverfig.png" width="800" />
+    <img src="images/papers/S2VIT_coverfig.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
