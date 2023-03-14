@@ -103,5 +103,5 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 </table>
 
 ## Professional Services
-- Journal Reviewer: JSTSP, IJCV, TIP, TNNLS, TETCI, Neurocomputing, etc.
+- Journal Reviewer: Pattern Recognition, JSTSP, IJCV, TIP, TNNLS, TETCI, Neurocomputing, etc.
 - Conference Reviewer: CIKM'21 CIKM'22 ACM SIGKDD'22, etc.
