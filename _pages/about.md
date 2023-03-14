@@ -56,7 +56,7 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="images/papers/S2VIT_coverfig.png" width="800" />
+    <img src="/images/papers/S2VIT_coverfig.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
