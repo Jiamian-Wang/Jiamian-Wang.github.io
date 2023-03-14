@@ -10,7 +10,7 @@ redirect_from:
 ---
 ## About Me
 
-I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, advised by Dr. [Zhiqiang Tao](https://ztao.cc/research.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018, respectively.
+Hi! I'm Jiamian Wang (王加冕). I'm a first-year Ph.D. student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, advised by Dr. [Zhiqiang Tao](https://ztao.cc/research.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018, respectively.
 
 My research interest includes Hyperspectral Image Reconstruction, Uncertainty Estimation, and Image Super-Resolution. I have a high passion for exploiting/measuring the trustworthiness/reliability of the novel deep learning models and expedite the deployment of cutting-edge cameras/sensors with deep learning-based [solutions](https://arxiv.org/pdf/2112.15362.pdf).
 
