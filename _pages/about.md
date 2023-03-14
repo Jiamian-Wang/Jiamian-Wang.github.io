@@ -41,7 +41,7 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/CIKM2022_framework.png" width="800" />
+    <img src="/images/papers/CIKM2022_framework.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Xueying Yang, <b>Jiamian Wang</b>, Sheng Li, Zhiqiang Tao.<br>
