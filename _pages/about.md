@@ -24,17 +24,17 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/ECCV2022_framwork.png" width="800" />
+    <img src="/images/papers/ECCV2022_framwork.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
     "<i>Modeling Mask Uncertainty in Hyperspectral Image Reconstruction</i>".<br>
     <b>ECCV Oral (2.7%)</b>, 2022.<br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper</a></span><br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI">Code</a></span><br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/youtube_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/youtube_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.youtube.com/watch?v=vzGV-trPqnI">Video</a></span><br>
   </td>
 </tr>
@@ -47,9 +47,9 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
     Xueying Yang, <b>Jiamian Wang</b>, Sheng Li, Zhiqiang Tao.<br>
     "<i>Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty</i>".<br>
     <b>CIKM</b>, 2022.<br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://zxj32.github.io/data/CIKM_2022.pdf">Paper</a></span><br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/xyang2316/HyperU-GCN">Code</a></span><br>
   </td>
 </tr>
@@ -62,39 +62,39 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
     "<i>S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction</i>".<br>
     <b>Arxiv</b>, 2022.<br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2209.12075.pdf">Arxiv</a></span><br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/S2-transformer-HSI">Code</a></span><br>
   </td>
 </tr>
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/HSIbaseline_coverfig.png" width="800" />
+    <img src="/images/papers/HSIbaseline_coverfig.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
     "<i>A new backbone for hyperspectral image reconstruction</i>".<br>
     <b>Arxiv</b>, 2022.<br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2108.07739.pdf">Arxiv</a></span><br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/HSI_baseline">Code</a></span><br>
   </td>
 </tr>
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/papers/OE_fig.png" width="800" />
+    <img src="/images/papers/OE_fig.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, <b>Jiamian Wang</b><br>
     "<i>OUTLIER EXPOSURE WITH CONFIDENCE CONTROL FOR OUT-OF-DISTRIBUTION DETECTION</i>".<br>
     <b>Neurocomputing</b>, 2021.<br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/1906.03509.pdf">Arxiv</a></span><br>
-    <img src="https://github.com/Jiamian-Wang/Jiamian-Wang.github.io/blob/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/nazim1021/OOD-detection-using-OECC">Code</a></span><br>
   </td>
 </tr>
