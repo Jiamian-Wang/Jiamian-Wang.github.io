@@ -23,7 +23,7 @@ My research interest includes Hyperspectral Image Reconstruction, Uncertainty Es
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/blob/master/images/papers/ECCV2022_framwork.png" width="800" />
+    <img src="blob/master/images/papers/ECCV2022_framwork.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
