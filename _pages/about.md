@@ -14,7 +14,7 @@ I'm Jiamian Wang. I'm a first-year Ph.D. student at Golisano College of Computin
 
 My research interest includes Hyperspectral Image Reconstruction, Uncertainty Estimation, and Image Super-Resolution. I have a high passion for exploiting/measuring the trustworthiness/reliability of the novel deep learning models and expedite the deployment of cutting-edge cameras/sensors with deep learning-based [solutions](https://arxiv.org/pdf/2112.15362.pdf).
 
-🔥🔥**<font color='red'>I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible starting date (Summer, Fall, or Spring). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!</font>**
+🔥🔥 **<font color='red'>I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible starting date (Summer, Fall, or Spring). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!</font>**
 
 
 ## Selected Publications and Preprints
