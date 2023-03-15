@@ -105,3 +105,9 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 ## Professional Services
 - Journal Reviewer: Pattern Recognition, JSTSP, IJCV, TIP, TNNLS, TETCI, Neurocomputing, etc.
 - Conference Reviewer: CIKM'21 CIKM'22 ACM SIGKDD'22, etc.
+
+
+## Skills & Languages
+- Programming: Python, MATLAB, Linux Bash, C/C++
+- Cloud Service: Slurm, AWS, Colab
+- Languages: English, Chinese (Mandarin)
