@@ -18,6 +18,11 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 🔥🔥 **I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible starting date (Summer, Fall, or Spring). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!**
 
 
+## News
+2023.03: **[Preprint]** Check out our new pruning method that flexibly handles diverse off-the-shelf SR network architectures without pre-training the dense model: [Arxiv](https://arxiv.org/abs/2303.09650). Thanks to my co-authors' great support!
+
+
+
 ## Selected Publications and Preprints
 
 <table style="border: none; border-collapse: collapse;">
