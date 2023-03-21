@@ -29,7 +29,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/ECCV2022_framwork.png" width="800" />
+    <img src="/images/papers/ECCV2022_framework_v2.png" width="500" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
@@ -46,7 +46,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/CIKM2022_framework.png" width="800" />
+    <img src="/images/papers/CIKM2022_framework.png" width="500" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Xueying Yang, <b>Jiamian Wang</b>, Sheng Li, Zhiqiang Tao.<br>
@@ -61,7 +61,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/S2VIT_coverfig.png" width="800" />
+    <img src="/images/papers/S2VIT_coverfig.png" width="500" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
@@ -76,7 +76,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/HSIbaseline_coverfig.png" width="800" />
+    <img src="/images/papers/HSIbaseline_framework.png" width="500" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
@@ -86,21 +86,6 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <span><a href="https://arxiv.org/pdf/2108.07739.pdf">Arxiv</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/HSI_baseline">Code</a></span><br>
-  </td>
-</tr>
-
-<tr style="border-collapse: separate; border-spacing:none;">
-  <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/OE_fig.png" width="800" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, <b>Jiamian Wang</b><br>
-    "<i>OUTLIER EXPOSURE WITH CONFIDENCE CONTROL FOR OUT-OF-DISTRIBUTION DETECTION</i>".<br>
-    <b>Neurocomputing</b>, 2021.<br>
-    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/1906.03509.pdf">Arxiv</a></span><br>
-    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/nazim1021/OOD-detection-using-OECC">Code</a></span><br>
   </td>
 </tr>
 
