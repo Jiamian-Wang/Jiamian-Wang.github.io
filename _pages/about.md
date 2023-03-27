@@ -29,7 +29,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/ECCV2022_framework_v2.png" width="375" />
+    <img src="/images/papers/ECCV2022_framework_v2.png" width="350" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
@@ -46,7 +46,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/CIKM2022_framework.png" width="375" />
+    <img src="/images/papers/CIKM2022_framework.png" width="350" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Xueying Yang, <b>Jiamian Wang</b>, Sheng Li, Zhiqiang Tao.<br>
@@ -61,7 +61,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/S2VIT_coverfig.png" width="375" />
+    <img src="/images/papers/S2VIT_coverfig.png" width="350" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
@@ -76,7 +76,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/HSIbaseline_framework.png" width="375" />
+    <img src="/images/papers/HSIbaseline_framework.png" width="350" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
