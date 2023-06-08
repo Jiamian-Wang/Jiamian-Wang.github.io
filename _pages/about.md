@@ -100,7 +100,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
   <td style="border-collapse: collapse; border: none;">
     Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
     <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2022.<br>
+    <b>Arxiv</b>, 2023.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Arxiv</a></span><br>
   </td>
@@ -113,7 +113,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
   <td style="border-collapse: collapse; border: none;">
     Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
     <b>Jiamian Wang</b>, Zongliang Wu, Yulun Zhang, Xin Yuan, Tao Lin, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2022.<br>
+    <b>Arxiv</b>, 2023.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2306.01176.pdf">Arxiv</a></span><br>
   </td>
