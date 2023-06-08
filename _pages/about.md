@@ -20,7 +20,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 ## News
 
-2023.06: **[Preprint]** Check out our Federated learning strategy on snapshot compressive imaging hardware cooperation, [FedHP](https://arxiv.org/pdf/2306.01176.pdf).
+2023.06: **[Preprint]** Check out our Federated learning method on snapshot compressive imaging hardware cooperation, [FedHP](https://arxiv.org/pdf/2306.01176.pdf).
 
 
 2023.03: **[Preprint]** Check out our new pruning method that flexibly handles diverse off-the-shelf SR network architectures without pre-training the dense model: [Arxiv](https://arxiv.org/abs/2303.09650). Thanks to my co-authors' great support!
