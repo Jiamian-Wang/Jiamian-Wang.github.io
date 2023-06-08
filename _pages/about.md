@@ -36,8 +36,8 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <img src="/images/papers/ECCV2022_framework_v2.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
+    Modeling Mask Uncertainty in Hyperspectral Image Reconstruction.<br>
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
-    "<i>Modeling Mask Uncertainty in Hyperspectral Image Reconstruction</i>".<br>
     <b>ECCV Oral (2.7%)</b>, 2022.<br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper</a></span><br>
@@ -53,8 +53,8 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <img src="/images/papers/CIKM2022_framework.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
+    Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty.<br>
     Xueying Yang, <b>Jiamian Wang</b>, Sheng Li, Zhiqiang Tao.<br>
-    "<i>Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty</i>".<br>
     <b>CIKM</b>, 2022.<br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://zxj32.github.io/data/CIKM_2022.pdf">Paper</a></span><br>
@@ -68,8 +68,8 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <img src="/images/papers/S2VIT_coverfig.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
+    S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction.<br>
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
-    "<i>S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction</i>".<br>
     <b>Arxiv</b>, 2022.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2209.12075.pdf">Arxiv</a></span><br>
@@ -83,7 +83,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <img src="/images/papers/HSIbaseline_framework.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>A new backbone for hyperspectral image reconstruction.<br>
+    A new backbone for hyperspectral image reconstruction.<br>
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
     <b>Arxiv</b>, 2022.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
@@ -98,7 +98,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <img src="/images/papers/ISSP_framework.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
+    Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
     <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
     <b>Arxiv</b>, 2022.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
@@ -111,7 +111,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <img src="/images/papers/FedHP_framework.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
+    Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
     <b>Jiamian Wang</b>, Zongliang Wu, Yulun Zhang, Xin Yuan, Tao Lin, Zhiqiang Tao.<br>
     <b>Arxiv</b>, 2022.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
