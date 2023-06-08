@@ -33,7 +33,33 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/ECCV2022_framework_v2.png" width="320" />
+    <img src="/images/papers/FedHP_framework.png" width="300" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
+    <b>Jiamian Wang</b>, Zongliang Wu, Yulun Zhang, Xin Yuan, Tao Lin, Zhiqiang Tao.<br>
+    <b>Arxiv</b>, 2023.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2306.01176.pdf">Arxiv</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="/images/papers/ISSP_framework.png" width="300" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
+    <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
+    <b>Arxiv</b>, 2023.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Arxiv</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="/images/papers/ECCV2022_framework_v2.png" width="300" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Modeling Mask Uncertainty in Hyperspectral Image Reconstruction.<br>
@@ -50,7 +76,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/CIKM2022_framework.png" width="320" />
+    <img src="/images/papers/CIKM2022_framework.png" width="300" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty.<br>
@@ -65,7 +91,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/S2VIT_coverfig.png" width="320" />
+    <img src="/images/papers/S2VIT_coverfig.png" width="300" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction.<br>
@@ -80,7 +106,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/HSIbaseline_framework.png" width="320" />
+    <img src="/images/papers/HSIbaseline_framework.png" width="300" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     A new backbone for hyperspectral image reconstruction.<br>
@@ -92,33 +118,6 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
     <span><a href="https://github.com/Jiamian-Wang/HSI_baseline">Code</a></span><br>
   </td>
 </tr>
-
-<tr style="border-collapse: separate; border-spacing:none;">
-  <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/ISSP_framework.png" width="320" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
-    <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2023.<br>
-    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Arxiv</a></span><br>
-  </td>
-</tr>
-
-<tr style="border-collapse: separate; border-spacing:none;">
-  <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/FedHP_framework.png" width="320" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
-    <b>Jiamian Wang</b>, Zongliang Wu, Yulun Zhang, Xin Yuan, Tao Lin, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2023.<br>
-    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2306.01176.pdf">Arxiv</a></span><br>
-  </td>
-</tr>
-
 
 </table>
 
