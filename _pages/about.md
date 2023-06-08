@@ -19,6 +19,10 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 
 ## News
+
+2023.06: **[Preprint]** Check out our Federated learning strategy on snapshot compressive imaging hardware cooperation, [FedHP](https://arxiv.org/pdf/2306.01176.pdf).
+
+
 2023.03: **[Preprint]** Check out our new pruning method that flexibly handles diverse off-the-shelf SR network architectures without pre-training the dense model: [Arxiv](https://arxiv.org/abs/2303.09650). Thanks to my co-authors' great support!
 
 
@@ -29,7 +33,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/ECCV2022_framework_v2.png" width="350" />
+    <img src="/images/papers/ECCV2022_framework_v2.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
@@ -46,7 +50,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/CIKM2022_framework.png" width="350" />
+    <img src="/images/papers/CIKM2022_framework.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Xueying Yang, <b>Jiamian Wang</b>, Sheng Li, Zhiqiang Tao.<br>
@@ -61,7 +65,7 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/S2VIT_coverfig.png" width="350" />
+    <img src="/images/papers/S2VIT_coverfig.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
@@ -76,16 +80,42 @@ My research interest includes Compressive Sensing, Hyperspectral Image Reconstru
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/HSIbaseline_framework.png" width="350" />
+    <img src="/images/papers/HSIbaseline_framework.png" width="320" />
   </td>
   <td style="border-collapse: collapse; border: none;">
+    <b>A new backbone for hyperspectral image reconstruction.<br>
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Yun Fu, Zhiqiang Tao.<br>
-    "<i>A new backbone for hyperspectral image reconstruction</i>".<br>
     <b>Arxiv</b>, 2022.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2108.07739.pdf">Arxiv</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/HSI_baseline">Code</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="/images/papers/ISSP_framework.png" width="320" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
+    <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
+    <b>Arxiv</b>, 2022.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Arxiv</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="/images/papers/FedHP_framework.png" width="320" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
+    <b>Jiamian Wang</b>, Zongliang Wu, Yulun Zhang, Xin Yuan, Tao Lin, Zhiqiang Tao.<br>
+    <b>Arxiv</b>, 2022.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2306.01176.pdf">Arxiv</a></span><br>
   </td>
 </tr>
 
