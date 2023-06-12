@@ -13,14 +13,15 @@ redirect_from:
 
 I'm Jiamian Wang (王加冕). I'm a Ph.D. student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, advised by Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA). I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018, respectively.
 
-My research interest includes Compressive Sensing, Hyperspectral Image Reconstruction, Uncertainty Estimation, and Image Super-Resolution. I have a high passion for exploiting/measuring the trustworthiness/reliability of the novel deep learning models and expediting the deployment of cutting-edge cameras/sensors with deep learning-based [solutions](https://arxiv.org/pdf/2112.15362.pdf).
+My research interest includes Compressive Sensing (SCI), Uncertainty Quantification (UQ), and Image Super-Resolution (SR).
+I have a high passion for exploiting/measuring the trustworthiness/reliability of the novel deep learning models and expediting the deployment of cutting-edge cameras/sensors with deep learning-based [solutions](https://arxiv.org/pdf/2112.15362.pdf).
 
-🔥🔥 **I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible starting date (Summer, Fall, or Spring). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!**
+🔥🔥 **I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible starting date (Fall, or Spring). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!**
 
 
 ## News
 
-2023.06: **[Preprint]** Check out our Federated learning method on snapshot compressive imaging hardware cooperation, [FedHP](https://arxiv.org/pdf/2306.01176.pdf).
+2023.06: **[Preprint]** Check out our Federated learning method on snapshot compressive imaging hardware cooperation, Federated Hardware-Prompt Learning ([FedHP](https://arxiv.org/pdf/2306.01176.pdf)). This is attempt of discussing the power of FL in the field of SCI.
 
 
 2023.03: **[Preprint]** Check out our new pruning method that flexibly handles diverse off-the-shelf SR network architectures without pre-training the dense model: [Arxiv](https://arxiv.org/abs/2303.09650). Thanks to my co-authors' great support!
