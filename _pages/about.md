@@ -56,9 +56,11 @@ I have a high passion for exploiting/measuring the trustworthiness/reliability o
   <td style="border-collapse: collapse; border: none;">
     Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
     <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2023.<br>
+    <b>ICCV</b>, 2023.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Arxiv</a></span><br>
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/Jiamian-Wang/IST_for_SR_pruning">Code</a></span><br>
   </td>
 </tr>
 
