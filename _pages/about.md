@@ -21,6 +21,8 @@ I have a high passion for exploiting/measuring the trustworthiness/reliability o
 
 ## News
 
+2023.08: **[ICCV'23]** Code, including training, testing scripts, and pretrained models have been released🎖🎊🎊🎉🎉. Check out the [SR_pruning_official](https://github.com/Jiamian-Wang/SR_pruning_official) for more details! Looking forward to the discussions🌝.
+
 2023.07: **[ICCV'23]** One paper on efficient image super-resolution ([Arxiv](https://arxiv.org/pdf/2303.09650.pdf)) is accepted by ICCV'23. Looking forward to sharing our work in [Paris](https://iccv2023.thecvf.com/paris.convention.center-36700-3-13-7.php)!
 
 2023.06: **[Preprint]** Check out our Federated learning method on snapshot compressive imaging hardware cooperation, Federated Hardware-Prompt Learning ([FedHP](https://arxiv.org/pdf/2306.01176.pdf)). This is the first attempt of discussing the power of FL in the field of SCI.
