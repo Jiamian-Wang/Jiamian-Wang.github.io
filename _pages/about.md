@@ -16,7 +16,7 @@ I'm Jiamian Wang (王加冕). I'm a Ph.D. student at Golisano College of Computi
 My research interest includes Compressive Sensing (SCI), Uncertainty Quantification (UQ), and Image Super-Resolution (SR).
 I have a high passion for exploiting/measuring the trustworthiness/reliability of the novel deep learning models and expediting the deployment of cutting-edge cameras/sensors with deep learning-based [solutions](https://arxiv.org/pdf/2112.15362.pdf).
 
-🔥🔥 **I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible starting date (Fall, or Spring). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!**
+🔥🔥 **I'm actively looking for internship opportunities (including but not limited to above topics) with a flexible starting date (Spring/Summer 2024). Please drop me an email (jw4905 [at] rit [dot] edu) if you are interested!**
 
 
 ## News
