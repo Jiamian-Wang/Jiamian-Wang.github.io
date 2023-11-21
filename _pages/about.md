@@ -37,7 +37,7 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/FedHP_framework.png" width="300" />
+    <img src="/images/papers/FedHP_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
@@ -50,7 +50,7 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/ISSP_framework.png" width="300" />
+    <img src="/images/papers/ISSP_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
@@ -65,7 +65,7 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/ECCV2022_framework_v2.png" width="300" />
+    <img src="/images/papers/ECCV2022_framework_v2.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Modeling Mask Uncertainty in Hyperspectral Image Reconstruction.<br>
@@ -82,7 +82,7 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/CIKM2022_framework.png" width="300" />
+    <img src="/images/papers/CIKM2022_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty.<br>
@@ -97,7 +97,7 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/S2VIT_coverfig.png" width="300" />
+    <img src="/images/papers/S2VIT_coverfig.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction.<br>
@@ -112,7 +112,7 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/HSIbaseline_framework.png" width="300" />
+    <img src="/images/papers/HSIbaseline_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     A new backbone for hyperspectral image reconstruction.<br>
