@@ -20,6 +20,8 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 ## News
 
+2023.11: I will serve as a reviewer for CVPR 2024.
+
 2023.08: **[ICCV'23]** Code, including training, testing scripts, and pretrained models have been released🎖🔥🔥. Check out the [SR_pruning_official](https://github.com/Jiamian-Wang/SR_pruning_official) for more details! Looking forward to the discussions🌝.
 
 2023.07: **[ICCV'23]** One paper on efficient image super-resolution ([Arxiv](https://arxiv.org/pdf/2303.09650.pdf)) is accepted by ICCV'23🎊🎊🎉🎉. Looking forward to sharing our work in [Paris](https://iccv2023.thecvf.com/paris.convention.center-36700-3-13-7.php)!
