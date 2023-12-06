@@ -57,7 +57,7 @@ My research focus primarily revolves around low-level vision tasks, such as imag
   <td style="border-collapse: collapse; border: none;">
     Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
     <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
-    <b>ICCV</b>, 2023.<br>
+    <b>ICCV Poster (26.15%)</b>, 2023.<br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Paper</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
