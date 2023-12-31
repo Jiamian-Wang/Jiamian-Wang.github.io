@@ -77,8 +77,8 @@ My research focus primarily revolves around low-level vision tasks, such as imag
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI">Code</a></span><br>
-    <img src="/images/youtube_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://www.youtube.com/watch?v=vzGV-trPqnI">Video</a></span><br>
+<!--     <img src="/images/youtube_icon.png" width="20" height="20" hspace="5"> -->
+<!--     <span><a href="https://www.youtube.com/watch?v=vzGV-trPqnI">Video</a></span><br> -->
   </td>
 </tr>
 
