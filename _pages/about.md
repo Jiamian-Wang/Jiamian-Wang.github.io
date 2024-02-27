@@ -20,6 +20,8 @@ My research focus primarily revolves around low-level vision tasks, such as imag
 
 ## News
 
+2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval paper is accepted by CVPR'24🎊🎊🎉🎉. Final draft, pre-trained models, training and evaluation code will soon be released!
+
 2024.02: I will serve as a reviewer for ECCV 2024.
 
 2023.11: I will serve as a reviewer for CVPR 2024.
