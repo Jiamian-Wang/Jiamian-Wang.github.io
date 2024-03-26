@@ -18,7 +18,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 
 ## News
-2024.03: I will join Robert Bosch LLC as a research intern, focusing on autoregressive image generation, starting from May 2024.
+2024.03: I will join Bosch Research and Technology Center as a research intern, focusing on autoregressive image generation, starting from May 2024.
 
 2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024. Final draft, pre-trained models, training and evaluation code will soon be released.
 
