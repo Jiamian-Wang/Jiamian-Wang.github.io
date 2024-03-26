@@ -11,31 +11,30 @@ redirect_from:
 ## About Me
 
 
-Greetings! I'm Jiamian Wang (王加冕), a student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of by Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr.Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
+Greetings! I'm Jiamian Wang (王加冕), a student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr.Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
 
-My research focus primarily revolves around low-level vision tasks, such as image super-resolution. I am engaged in enhancing the trustworthiness, robustness, and performance of snapshot compressive imaging systems. My recent work delves into harnessing the power of diffusion models for low-level vision tasks.
+My research primarily revolves around low-level vision tasks, such as image super-resolution. I am engaged in enhancing the trustworthiness, robustness, and performance of snapshot compressive imaging systems (SCI). My recent work delves into harnessing the power of diffusion models for both low-level vision tasks and high-level multi-modal retrieval task.
 
-🔥 **I'm actively seeking internship opportunities for the summer of 2024, with a keen interest in topics related to my research. If you are interested or have potential opportunities, please feel free to reach out to me via email at jw4905 [at] rit [dot] edu.**
 
 
 ## News
+2024.03: I will join Robert Bosch LLC as a research intern focusing on autoregressive image generation, starting from May 2024,
 
-2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval paper is accepted by CVPR'24🎊🎊🎉🎉. Final draft, pre-trained models, training and evaluation code will soon be released!
+2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024. Final draft, pre-trained models, training and evaluation code will soon be released.
 
 2024.02: I will serve as a reviewer for ECCV 2024.
 
 2023.11: I will serve as a reviewer for CVPR 2024.
 
-2023.08: **[ICCV'23]** Code, including training, testing scripts, and pretrained models have been released🎖🔥🔥. Check out the [SR_pruning_official](https://github.com/Jiamian-Wang/SR_pruning_official) for more details! Looking forward to the discussions🌝.
+2023.08: **[ICCV'23]** Code, including training, testing scripts, and pretrained models have been released. Check out [Iterative-Soft-Shrinkage-SR](https://github.com/Jiamian-Wang/SR_pruning_official) for more details.
 
-2023.07: **[ICCV'23]** One paper on efficient image super-resolution ([Arxiv](https://arxiv.org/pdf/2303.09650.pdf)) is accepted by ICCV'23🎊🎊🎉🎉. Looking forward to sharing our work in [Paris](https://iccv2023.thecvf.com/paris.convention.center-36700-3-13-7.php)!
+2023.07: **[ICCV'23]** One paper on efficient image super-resolution ([Arxiv](https://arxiv.org/pdf/2303.09650.pdf)) is accepted by ICCV 2023. Looking forward to sharing our work in [Paris](https://iccv2023.thecvf.com/paris.convention.center-36700-3-13-7.php).
 
-2023.06: **[Preprint]** Check out our Federated learning method on snapshot compressive imaging hardware cooperation, Federated Hardware-Prompt Learning ([FedHP](https://arxiv.org/pdf/2306.01176.pdf)). This is the first attempt of discussing the power of FL in the field of SCI🚀🚀.
+2023.06: **[Preprint]** Check out our Federated learning method on snapshot compressive imaging, Federated Hardware-Prompt Learning ([FedHP](https://arxiv.org/pdf/2306.01176.pdf)). This is the first attempt of discussing the power of FL in the field of SCI.
 
+2023.03: **[Preprint]** Check out our new pruning method that flexibly handles diverse off-the-shelf SR network architectures without pre-training: [Arxiv](https://arxiv.org/abs/2303.09650). Thanks to my co-authors' great support.
 
-2023.03: **[Preprint]** Check out our new pruning method that flexibly handles diverse off-the-shelf SR network architectures without pre-training the dense model: [Arxiv](https://arxiv.org/abs/2303.09650). Thanks to my co-authors' great support💪💪!
-
-
+2022.06. **[ECCV'22]** One paper on uncertainty quantification on SCI system is accpeted as an Oral paper by ECCV 2022. Check out the [manuscript](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf) and the [code](https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI).
 
 ## Selected Publications and Preprints
 
