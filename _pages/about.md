@@ -20,7 +20,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
 ## News
 2024.03: I will join Bosch Research and Technology Center as a research intern, focusing on autoregressive image generation, starting from May 2024.
 
-2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024. Final draft, pre-trained models, training and evaluation code will soon be released.
+2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024. Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf) and the [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval).
 
 2024.02: I will serve as a reviewer for ECCV 2024.
 
@@ -39,6 +39,21 @@ My research primarily revolves around low-level vision tasks, such as image supe
 ## Selected Publications and Preprints
 
 <table style="border: none; border-collapse: collapse;">
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="/images/papers/framework_tmass.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval.<br>
+    <b>Jiamian Wang</b>, Guohao Sun, Pichao Wang, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
+    <b>Arxiv</b>, 2023.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Arxiv</a></span><br>
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval">Code</a></span><br>
+  </td>
+</tr>
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
