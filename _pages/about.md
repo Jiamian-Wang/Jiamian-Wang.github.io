@@ -47,7 +47,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
   <td style="border-collapse: collapse; border: none;">
     Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval.<br>
     <b>Jiamian Wang</b>, Guohao Sun, Pichao Wang, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2023.<br>
+    <b>CVPR</b>, 2024.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Arxiv</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
