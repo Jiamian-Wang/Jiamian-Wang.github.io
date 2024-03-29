@@ -57,13 +57,13 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/framework_tmass.png" width="280" />
+    <img src="/images/papers/framework_SQLLaVA.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant.<br>
     Guohao Sun, Can Qin, <b>Jiamian Wang</b>, Zeyuan Chen, Ran Xu, Zhiqiang Tao.<br>
     <b>Arxiv</b>, 2024.<br>
-    <img src="/images/framework_SQLLaVA.png" width="20" height="20" hspace="5">
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2403.11299.pdf">Arxiv</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/heliossun/SQ-LLaVA">Code</a></span><br>
