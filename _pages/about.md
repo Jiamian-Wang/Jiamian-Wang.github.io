@@ -20,7 +20,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
 ## News
 2024.03: I will join Bosch Research and Technology Center as a research intern, focusing on autoregressive image generation, starting from May 2024.
 
-2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024. Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf) and the [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval).
+2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024 as Highlight (11.9%). Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf) and the [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval).
 
 2024.02: I will serve as a reviewer for ECCV 2024.
 
@@ -34,7 +34,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 2023.03: **[Preprint]** Check out our new pruning method that flexibly handles diverse off-the-shelf SR network architectures without pre-training: [Arxiv](https://arxiv.org/abs/2303.09650). Thanks to my co-authors' great support.
 
-2022.06. **[ECCV'22]** One paper on uncertainty quantification on SCI system is accpeted as an Oral paper by ECCV 2022. Check out the [manuscript](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf) and the [code](https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI).
+2022.06. **[ECCV'22]** One paper on uncertainty quantification on SCI system is accpeted as an Oral paper by ECCV 2022 (2.7%). Check out the [manuscript](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf) and the [code](https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI).
 
 ## Selected Publications and Preprints
 
@@ -47,7 +47,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
   <td style="border-collapse: collapse; border: none;">
     Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval.<br>
     <b>Jiamian Wang</b>, Guohao Sun, Pichao Wang, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
-    <b>CVPR</b>, 2024.<br>
+    <b>CVPR Highlight (11.9%)</b>, 2024.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Arxiv</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
