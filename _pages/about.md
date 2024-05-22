@@ -18,6 +18,8 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 
 ## News
+2024.05: I will serve as a reviewer for NeurIPS 2024.
+
 2024.03: I will join Bosch Research and Technology Center as a research intern, focusing on autoregressive image generation, starting from May 2024.
 
 2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024 as Highlight (11.9%). Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf) and the [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval).
