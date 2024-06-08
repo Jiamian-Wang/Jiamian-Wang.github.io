@@ -11,14 +11,14 @@ redirect_from:
 ## About Me
 
 
-Greetings! I'm Jiamian Wang (王加冕), a student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr.Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
+Greetings! I'm Jiamian Wang, a student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr.Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
 
 My research primarily revolves around low-level vision tasks, such as image super-resolution. I am engaged in enhancing the trustworthiness, robustness, and performance of snapshot compressive imaging systems (SCI). My recent work delves into harnessing the power of diffusion models for both low-level vision tasks and high-level multi-modal retrieval task.
 
 
 
 ## News
-2024.06: [Poster](https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing), ,[Video](https://www.youtube.com/watch?v=Uvw1EcdZ_a0), and [Supplementary Material](https://drive.google.com/file/d/1HAjKjVpXvAYasmoeoQtC2MTJn3k22wNW/view?usp=drive_link) has been released, looking forward to present our work in [CVPR2024](https://cvpr.thecvf.com/)!
+2024.06: [Poster](https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing), [Video](https://www.youtube.com/watch?v=Uvw1EcdZ_a0), and [Supplementary Material](https://drive.google.com/file/d/1HAjKjVpXvAYasmoeoQtC2MTJn3k22wNW/view?usp=drive_link) has been released, looking forward to present our work in [CVPR2024](https://cvpr.thecvf.com/)!
 
 2024.05: I will serve as a reviewer for NeurIPS 2024.
 
