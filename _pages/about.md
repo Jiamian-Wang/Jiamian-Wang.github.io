@@ -18,6 +18,8 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 
 ## News
+2024.06: [Poster](https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing), ,[Video](https://www.youtube.com/watch?v=Uvw1EcdZ_a0), and [Supplementary Material](https://drive.google.com/file/d/1HAjKjVpXvAYasmoeoQtC2MTJn3k22wNW/view?usp=drive_link) has been released, looking forward to present our work in [CVPR2024](https://cvpr.thecvf.com/)!
+
 2024.05: I will serve as a reviewer for NeurIPS 2024.
 
 2024.03: I will join Bosch Research and Technology Center as a research intern, focusing on autoregressive image generation, starting from May 2024.
@@ -54,6 +56,12 @@ My research primarily revolves around low-level vision tasks, such as image supe
     <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Arxiv</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval">Code</a></span><br>
+    <img src="/images/youtube_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://www.youtube.com/watch?v=Uvw1EcdZ_a0">Video</a></span><br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/file/d/1HAjKjVpXvAYasmoeoQtC2MTJn3k22wNW/view?usp=drive_link">Supply</a></span><br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing ">Poster</a></span><br>
   </td>
 </tr>
 
@@ -97,6 +105,10 @@ My research primarily revolves around low-level vision tasks, such as image supe
     <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Paper</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/IST_for_SR_pruning">Code</a></span><br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/file/d/1GT5d5nq3pJWJe80bB6Wpv1O1miZ9_aYM/view?usp=sharing ">Supply</a></span><br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/file/d/1DCThVAF_80tqxezh-yeeG0oI-_01Lh9q/view?usp=sharing">Poster</a></span><br>
   </td>
 </tr>
 
@@ -109,11 +121,13 @@ My research primarily revolves around low-level vision tasks, such as image supe
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
     <b>ECCV Oral (2.7%)</b>, 2022.<br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
-    <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper</a></span><br>
+    <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper (Supply)</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI">Code</a></span><br>
-<!--     <img src="/images/youtube_icon.png" width="20" height="20" hspace="5"> -->
-<!--     <span><a href="https://www.youtube.com/watch?v=vzGV-trPqnI">Video</a></span><br> -->
+    <img src="/images/youtube_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://www.youtube.com/watch?v=vzGV-trPqnI">Video</a></span><br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/file/d/189WgQREvUIWGpK6p0VKaXY1eV1bB3B3I/view?usp=sharing">Poster</a></span><br>
   </td>
 </tr>
 
@@ -164,11 +178,8 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 </table>
 
+
 ## Professional Services
-- Journal Reviewer: Pattern Recognition, JSTSP, IJCV, TIP, TNNLS, TETCI, Neurocomputing, etc.
-- Conference Reviewer: CIKM'21 CIKM'22 ACM SIGKDD'22, etc.
+- Journal Reviewer: TPAMI, PR, JSTSP, IJCV, TIP, TNNLS, TETCI, Neurocomputing.
+- Conference Reviewer: NIPS2024, CVPR2024, ECCV2024, ICML2024, CIKM 2021-2023, ACM SIGKDD 2022-2023.
 
-
-## Skills & Languages
-- Programming: Python, MATLAB, Linux Bash, C/C++
-- Cloud Service: Slurm, AWS, Colab
