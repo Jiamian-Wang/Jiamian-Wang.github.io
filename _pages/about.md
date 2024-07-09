@@ -18,6 +18,8 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 
 ## News
+2024.07: **[ECCV'24]** Our work of [SQ-LLaVA](https://arxiv.org/abs/2403.11299) has been accepted by ECCV 2024. Congratulations to Guohao!
+
 2024.06: [Poster](https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing), [Video](https://www.youtube.com/watch?v=Uvw1EcdZ_a0), and [Supplementary Material](https://drive.google.com/file/d/1HAjKjVpXvAYasmoeoQtC2MTJn3k22wNW/view?usp=drive_link) has been released, looking forward to present our work in [CVPR2024](https://cvpr.thecvf.com/)!
 
 2024.05: I will serve as a reviewer for NeurIPS 2024.
@@ -53,7 +55,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
     <b>Jiamian Wang</b>, Guohao Sun, Pichao Wang, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
     <b>CVPR Highlight (11.9%)</b>, 2024.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Arxiv</a></span><br>
+    <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Paper</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval">Code</a></span><br>
     <img src="/images/youtube_icon.png" width="20" height="20" hspace="5">
@@ -72,7 +74,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
   <td style="border-collapse: collapse; border: none;">
     SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant.<br>
     Guohao Sun, Can Qin, <b>Jiamian Wang</b>, Zeyuan Chen, Ran Xu, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2024.<br>
+    <b>ECCV</b>, 2024.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2403.11299.pdf">Arxiv</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
