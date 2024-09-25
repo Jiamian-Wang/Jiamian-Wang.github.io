@@ -18,6 +18,10 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 
 ## News
+2024.09: **[NeurIPS'24]** Two papers are accepted by NeurIPS 2024. One is [FedHP](https://arxiv.org/pdf/2306.01176.pdf), in which we developed a federated learning framework to effectively cooperate cross-silo computational imaging systems without breaking the privacy concern. One is about text-video retrieval, where we devised a diffusion-inspired iterative alignment process to solve for the multimodal modality gap and achieves encouraging performance. Code, pretrained models, and the manuscript will be released soon!
+
+2024.09：I will server as a reviewer for AAAI 2024 and ICLR 2025.
+
 2024.07: **[ECCV'24]** Our work of [SQ-LLaVA](https://arxiv.org/abs/2403.11299) has been accepted by ECCV 2024. Congratulations to Guohao!
 
 2024.06: [Poster](https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing), [Video](https://www.youtube.com/watch?v=Uvw1EcdZ_a0), and [Supplementary Material](https://drive.google.com/file/d/1HAjKjVpXvAYasmoeoQtC2MTJn3k22wNW/view?usp=drive_link) has been released, looking forward to present our work in [CVPR2024](https://cvpr.thecvf.com/)!
@@ -89,7 +93,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
   <td style="border-collapse: collapse; border: none;">
     Cooperative Hardware-Prompt Learning for Snapshot Compressive Imaging.<br>
     <b>Jiamian Wang</b>, Zongliang Wu, Yulun Zhang, Xin Yuan, Tao Lin, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2023.<br>
+    <b>NeurIPS</b>, 2024.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2306.01176.pdf">Arxiv</a></span><br>
   </td>
