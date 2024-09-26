@@ -20,7 +20,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
 ## News
 2024.09: **[NeurIPS'24]** Two papers are accepted by NeurIPS 2024. One is [FedHP](https://arxiv.org/pdf/2306.01176.pdf), in which we developed a federated learning framework to effectively cooperate cross-silo computational imaging systems without breaking the privacy concern. One is about text-video retrieval, where we devised a diffusion-inspired iterative alignment process to solve for the multimodal modality gap and achieves encouraging performance. Code, pretrained models, and the manuscript will be released soon!
 
-2024.09：I will server as a reviewer for AAAI 2024 and ICLR 2025.
+2024.09：I will server as a reviewer for AAAI 2025 and ICLR 2025.
 
 2024.07: **[ECCV'24]** Our work of [SQ-LLaVA](https://arxiv.org/abs/2403.11299) has been accepted by ECCV 2024. Congratulations to Guohao!
 
