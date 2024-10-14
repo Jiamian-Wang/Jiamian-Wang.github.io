@@ -18,7 +18,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 
 ## News
-2024.10: **[NeurIPS'24]** I received NeurIPS'24 Travel Award. Thanks to [NeurIPS](https://neurips.cc/) and looking forward to present our works in Vancouver!
+2024.10: **[NeurIPS'24]** I received NeurIPS'24 Travel Award. Thanks to [NeurIPS](https://neurips.cc/) and looking forward to visiting Vancouver!
 
 2024.09: **[NeurIPS'24]** Two papers are accepted by NeurIPS 2024. One is [FedHP](https://arxiv.org/pdf/2306.01176.pdf), in which we developed a federated learning framework to effectively cooperate cross-silo computational imaging systems without breaking the privacy concern. One is about text-video retrieval, where we devised a diffusion-inspired iterative alignment process to solve for the multimodal modality gap and achieves encouraging performance. Code, pretrained models, and the manuscript will be released soon!
 
