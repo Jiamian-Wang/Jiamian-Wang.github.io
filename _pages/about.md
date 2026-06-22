@@ -101,8 +101,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <!-- TODO: replace placeholder with figure -->
-    <img src="/images/500x300.png" width="280" />
+    <img src="/images/papers/LatentCentroid_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving.<br>
@@ -114,8 +113,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <!-- TODO: replace placeholder with figure -->
-    <img src="/images/500x300.png" width="280" />
+    <img src="/images/papers/VisualAR_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization for Low-Level Image Perception.<br>
@@ -127,8 +125,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <!-- TODO: replace placeholder with a DocArena figure -->
-    <img src="/images/500x300.png" width="280" />
+    <img src="/images/papers/DocArena_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents.<br>
@@ -141,8 +138,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <!-- TODO: replace placeholder with a Visual Self-Refinement figure -->
-    <img src="/images/500x300.png" width="280" />
+    <img src="/images/papers/VisualSelfRefine_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Visual Self-Refinement for Autoregressive Models.<br>
@@ -155,8 +151,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <!-- TODO: replace placeholder with an X-CoT figure -->
-    <img src="/images/500x300.png" width="280" />
+    <img src="/images/papers/XCoT_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning.<br>
