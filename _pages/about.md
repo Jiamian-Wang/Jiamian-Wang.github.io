@@ -10,46 +10,46 @@ redirect_from:
 ---
 ## About Me
 
-My current work spans three interconnected directions — the **3 A's**:
+Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr. Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
+
+My research focuses on visual understanding and reasoning. My initial works in computational imaging and image super-resolution develop more interpretable, robust, and efficient methods to enhance visual data compression and reconstruction. My recent research studies vision and language semantics gap modeling and alignment upon encoder/decoder-based VLMs (*e.g.*, text-video retrieval). My ongoing research develops agents for multi-turn and multimodal tool calling. My ultimate goal is to develop intelligent systems that can (1) explore visual uncertainty (knowing the unknown), (2) address visual uncertainty (acting on the unknown), and (3) exploit visual uncertainty (benefiting from the unknown) for improved performance, trustworthiness, and reduced hallucination.
+
+Building on this, my current work concretely spans three interconnected directions — the **3 A's**:
 - **Agent** — environment building and training for multimodal, multi-turn agents.
 - **Algorithm** — algorithmic improvements, including Bayesian-grounded methods.
 - **Autonomy** — post-training for autonomous-driving scenarios and solving real-world problems.
 
 I'm always glad to discuss these areas — and their intersections. Feel free to reach out!
 
-Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr. Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
-
-My research focuses on visual understanding and reasoning. My initial works in computational imaging and image super-resolution develop more interpretable, robust, and efficient methods to enhance visual data compression and reconstruction. My recent research studies vision and language semantics gap modeling and alignment upon encoder/decoder-based VLMs (*e.g.*, text-video retrieval). My ongoing research develops agents for multi-turn and multimodal tool calling. My ultimate goal is to develop intelligent systems that can (1) explore visual uncertainty (knowing the unknown), (2) address visual uncertainty (acting on the unknown), and (3) exploit visual uncertainty (benefiting from the unknown) for improved performance, trustworthiness, and reduced hallucination.
-
-<p style="color:#b01b2e; font-weight:600; font-size:1.05em; border-left:4px solid #b01b2e; padding-left:0.85em; margin:1.3em 0;">I expect to graduate in Fall 2026 and am actively seeking full-time and student researcher opportunities. Feel free to <a href="mailto:jiamiansc@gmail.com" style="color:#b01b2e; text-decoration:underline;">reach out</a> if there's a potential match!</p>
+<p class="job-note">I expect to graduate in Fall 2026 and am actively seeking full-time opportunities. Feel free to <a href="mailto:jiamiansc@gmail.com">reach out</a> if there's a potential match!</p>
 
 
 ## Experience
 
-- [**NVIDIA**](https://www.nvidia.com/en-us/industries/automotive/) — *Deep Learning Intern*
-  - Santa Clara, CA · May 2026 – Aug 2026
+<div class="cv-exp" markdown="1">
+
+- [**NVIDIA**](https://www.nvidia.com/en-us/industries/automotive/) — *Deep Learning Intern* <span class="cv-meta">Santa Clara, CA · May 2026 – Aug 2026</span>
   - Developing OPD-based solutions for VLA-based autonomous-driving model post-training.
 
-- [**Adobe Research**](https://research.adobe.com/) (Document Intelligence Lab) — *Research Scientist Intern*
-  - San Jose, CA · May 2025 – Mar 2026
-  - Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/)
+- [**Adobe Research**](https://research.adobe.com/) (Document Intelligence Lab) — *Research Scientist Intern* <span class="cv-meta">San Jose, CA · May 2025 – Mar 2026</span>
+  - <span class="cv-mentor">Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/)</span>
   - Built an agent for multi-turn, multimodal document retrieval and question-answering:
     - an automated, customized, and scalable data-curation pipeline;
     - a complete search-agent training and deployment infrastructure;
     - a search agent built upon the curated data and infrastructure.
 
-- [**Bosch Center for Artificial Intelligence**](https://www.linkedin.com/company/bosch-center-for-artificial-intelligence-bcai/posts/?feedView=all) — *Machine Learning Research Intern*
-  - Pittsburgh, PA · May 2024 – Nov 2024
-  - Mentors: [Chen Qiu](https://scholar.google.com/citations?user=uX5Y9XUAAAAJ&hl=en), [Chaithanya Kumar Mummadi](https://scholar.google.com/citations?user=XJLtaG4AAAAJ&hl=en)
+- [**Bosch Center for Artificial Intelligence**](https://www.linkedin.com/company/bosch-center-for-artificial-intelligence-bcai/posts/?feedView=all) — *Machine Learning Research Intern* <span class="cv-meta">Pittsburgh, PA · May 2024 – Nov 2024</span>
+  - <span class="cv-mentor">Mentors: [Chen Qiu](https://scholar.google.com/citations?user=uX5Y9XUAAAAJ&hl=en), [Chaithanya Kumar Mummadi](https://scholar.google.com/citations?user=XJLtaG4AAAAJ&hl=en)</span>
   - Developed visual autoregressive models for low-level vision, studying error accumulation in next-token prediction and a post-processing solution for better visual quality and coherence.
 
-- [**SenseBrain Technology (SenseTime)**](https://www.sensetime.com/en) — *Research Intern*
-  - San Jose, CA · Jun 2022 – Aug 2022
+- [**SenseBrain Technology (SenseTime)**](https://www.sensetime.com/en) — *Research Intern* <span class="cv-meta">San Jose, CA · Jun 2022 – Aug 2022</span>
   - Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
+
+</div>
 
 
 ## News
-<div markdown="1" style="max-height: 320px; overflow-y: auto; padding: 12px 16px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #fafbfc;">
+<div class="news-box" markdown="1">
 
 2026.06: **[IROS'26]** Two papers accepted to IROS 2026: *Latent-Centroid Steering* for command-aligned autonomous driving, and *Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization* for low-level image perception.
 
