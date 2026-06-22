@@ -10,7 +10,7 @@ redirect_from:
 ---
 ## About Me
 
-Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr. Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
+Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html) — as his first Ph.D. student. Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr. Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
 
 My research focuses on visual understanding and reasoning. My initial works in computational imaging and image super-resolution develop more interpretable, robust, and efficient methods to enhance visual data compression and reconstruction. My recent research studies vision and language semantics gap modeling and alignment upon encoder/decoder-based VLMs (*e.g.*, text-video retrieval). My ongoing research develops agents for multi-turn and multimodal tool calling. My ultimate goal is to develop intelligent systems that can (1) explore visual uncertainty (knowing the unknown), (2) address visual uncertainty (acting on the unknown), and (3) exploit visual uncertainty (benefiting from the unknown) for improved performance, trustworthiness, and reduced hallucination.
 
@@ -192,7 +192,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
   <td style="border-collapse: collapse; border: none;">
     Diffusion-Inspired Truncated Sampler for Text-Video Retrieval.<br>
     <b>Jiamian Wang</b>, Pichao Wang, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
-    <b>NeurIPS</b>, 2024. (<b>NeurIPS 2024 Scholar Award</b>)<br>
+    <b>NeurIPS</b>, 2024. <span class="pub-badge pub-badge-award">NeurIPS Scholar Award</span><br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://openreview.net/pdf?id=SrQua0ATRZ">Paper</a></span><br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
@@ -207,7 +207,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
   <td style="border-collapse: collapse; border: none;">
     Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval.<br>
     <b>Jiamian Wang</b>, Guohao Sun, Pichao Wang, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
-    <b>CVPR Highlight (2.8%)</b>, 2024.<br>
+    <b>CVPR</b>, 2024. <span class="pub-badge pub-badge-highlight">Highlight · 2.8%</span><br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Paper</a></span><br>
     <img src="/images/youtube_icon.png" width="20" height="20" hspace="5">
@@ -273,7 +273,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
   <td style="border-collapse: collapse; border: none;">
     Modeling Mask Uncertainty in Hyperspectral Image Reconstruction.<br>
     <b>Jiamian Wang</b>, Yulun Zhang, Xin Yuan, Ziyi Meng, Zhiqiang Tao.<br>
-    <b>ECCV Oral (2.7%)</b>, 2022.<br>
+    <b>ECCV</b>, 2022. <span class="pub-badge pub-badge-oral">Oral · 2.7%</span><br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf">Paper (Supply)</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
@@ -317,6 +317,14 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 </table>
 
+
+## Invited Talks
+- *Recent Advances in Text-Video Retrieval* — Twelve Labs, San Francisco, CA <span class="cv-meta">Oct 2024</span>
+- *Snapshot-based Hyperspectral Imaging Meets with Deep Learning* — Computer Science and Engineering, Santa Clara University, Santa Clara, CA <span class="cv-meta">Apr 2022</span>
+
+## Honors and Awards
+- NeurIPS 2024 Scholar Award (Travel Award), Neural Information Processing Systems Foundation <span class="cv-meta">Oct 2024</span>
+- Second Prize Academic Scholarship, Tianjin University <span class="cv-meta">2018</span>
 
 ## Professional Services
 - **Conference Reviewer:** ICLR (2024–2026), CVPR (2024–2026), NeurIPS (2024–2026), AAAI (2023–2025), ECCV (2024, 2026), ICML (2024–2026), CIKM (2021–2023), ACM SIGKDD (2022–2023).

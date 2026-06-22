@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a class="cv-download" href="{{ base_path }}/files/Jiamian_Wang_CV.pdf">Download CV (PDF)</a>
+
 Education
 ======
 * Ph.D. in Computing and Information Sciences, Rochester Institute of Technology, Rochester, NY, 2022 – 2026 (expected). Advisor: Zhiqiang Tao.
