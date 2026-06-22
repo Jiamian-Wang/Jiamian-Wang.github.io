@@ -14,12 +14,7 @@ Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing 
 
 My research focuses on visual understanding and reasoning. My initial works in computational imaging and image super-resolution develop more interpretable, robust, and efficient methods to enhance visual data compression and reconstruction. My recent research studies vision and language semantics gap modeling and alignment upon encoder/decoder-based VLMs (*e.g.*, text-video retrieval). My ongoing research develops agents for multi-turn and multimodal tool calling. My ultimate goal is to develop intelligent systems that can (1) explore visual uncertainty (knowing the unknown), (2) address visual uncertainty (acting on the unknown), and (3) exploit visual uncertainty (benefiting from the unknown) for improved performance, trustworthiness, and reduced hallucination.
 
-Building on this, my current work concretely spans three interconnected directions — the **3 A's**:
-- **Agent** — environment building and training for multimodal, multi-turn agents.
-- **Algorithm** — algorithmic improvements, including Bayesian-grounded methods.
-- **Autonomy** — post-training for autonomous-driving scenarios and solving real-world problems.
-
-I'm always glad to discuss these areas — and their intersections. Feel free to reach out!
+Building on these focuses, my latest research interest spans the **3 A's** — **Agent**, **Algorithm**, and **Autonomy** — and the concrete problems they raise: How can we build scalable and controllable *environments* that teach an **agent** to perceive, reason, and act across multi-turn, multimodal interactions, and how should we *train* such agents? What post-training **algorithms** — e.g., Bayesian-grounded ones — can push the rich signals from these environments into the agent more efficiently and losslessly? And, toward **autonomy**, can we develop autonomous agents that one day help human drivers make safer, real-time decisions? I'm always glad to discuss these areas — and their intersections — so feel free to reach out!
 
 <p class="job-note">I expect to graduate in Fall 2026 and am actively seeking full-time opportunities. Feel free to <a href="mailto:jiamiansc@gmail.com">reach out</a> if there's a potential match!</p>
 
@@ -30,6 +25,7 @@ I'm always glad to discuss these areas — and their intersections. Feel free to
 
 - [**NVIDIA**](https://www.nvidia.com/en-us/industries/automotive/) — *Deep Learning Intern* <span class="cv-meta">Santa Clara, CA · May 2026 – Aug 2026</span>
   - Developing OPD-based solutions for VLA-based autonomous-driving model post-training.
+  - I'm currently on-site at NVIDIA HQ in Santa Clara — feel free to reach out if you're interested!
 
 - [**Adobe Research**](https://research.adobe.com/) (Document Intelligence Lab) — *Research Scientist Intern* <span class="cv-meta">San Jose, CA · May 2025 – Mar 2026</span>
   - <span class="cv-mentor">Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/)</span>
@@ -43,7 +39,7 @@ I'm always glad to discuss these areas — and their intersections. Feel free to
   - Developed visual autoregressive models for low-level vision, studying error accumulation in next-token prediction and a post-processing solution for better visual quality and coherence.
 
 - [**SenseBrain Technology (SenseTime)**](https://www.sensetime.com/en) — *Research Intern* <span class="cv-meta">San Jose, CA · Jun 2022 – Aug 2022</span>
-  - Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
+  - Developed a one-shot over-exposure pixel calibration method compatible with the Sony quad Bayer sensor.
 
 </div>
 
@@ -77,7 +73,7 @@ I'm always glad to discuss these areas — and their intersections. Feel free to
 
 2024.03: I will join Bosch Research and Technology Center as a research intern, focusing on autoregressive image generation, starting from May 2024.
 
-2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024 as Highlight (2.8%). Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf) and the [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval).
+2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024 as Highlight (2.8%). Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf).
 
 2024.02: I will serve as a reviewer for ECCV 2024.
 
@@ -170,6 +166,21 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
     <span><a href="https://github.com/prasannapulakurthi/X-CoT">Code</a></span><br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://prasannapulakurthi.github.io/X-CoT/">Demo</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="/images/papers/S2VIT_coverfig.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    S²-Transformer for Mask-Aware Hyperspectral Image Reconstruction.<br>
+    <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
+    <b>IEEE TPAMI</b>, 2025.<br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://ieeexplore.ieee.org/document/10899382">Paper</a></span><br>
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/Jiamian-Wang/S2-transformer-HSI">Code</a></span><br>
   </td>
 </tr>
 
@@ -291,21 +302,6 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/S2VIT_coverfig.png" width="280" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">
-    S2-Transformer for Mask-Aware Hyperspectral Image Reconstruction.<br>
-    <b>Jiamian Wang</b>, Kunpeng Li, Yulun Zhang, Xin Yuan, Zhiqiang Tao.<br>
-    <b>Arxiv</b>, 2022.<br>
-    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2209.12075.pdf">Arxiv</a></span><br>
-    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/Jiamian-Wang/S2-transformer-HSI">Code</a></span><br>
-  </td>
-</tr>
-
-<tr style="border-collapse: separate; border-spacing:none;">
-  <td style="border-collapse: collapse; border: none;">
     <img src="/images/papers/HSIbaseline_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
@@ -327,7 +323,5 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 - **Journal Reviewer:** TPAMI, IJCV, TIP, TNNLS, TMM, TCSVT, Pattern Recognition, TETCI.
 
 ## Hobbies
-Outside of research, I enjoy:
-- Swimming
-- Kayaking
+Outside of research, I enjoy swimming and kayaking.
 

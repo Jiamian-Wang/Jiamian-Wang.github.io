@@ -31,7 +31,7 @@ Experience
   * Developed visual autoregressive models for low-level vision tasks, studying the error-accumulation issue inherent in next-token prediction and proposing a post-processing solution for better visual quality and coherence.
   * Mentors: Chen Qiu, Chaithanya Kumar Mummadi.
 * **SenseBrain Technology (SenseTime)**, San Jose, CA — *Research Intern* (Jun 2022 – Aug 2022)
-  * Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
+  * Developed a one-shot over-exposure pixel calibration method compatible with the Sony quad Bayer sensor.
 
 Publications
 ======
