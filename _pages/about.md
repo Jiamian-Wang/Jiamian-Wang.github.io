@@ -18,6 +18,8 @@ Building on these focuses, my latest research interest spans the **3 A's** — *
 
 <p class="job-note">I expect to graduate in Fall 2026 and am actively seeking full-time opportunities. Feel free to <a href="mailto:jiamiansc@gmail.com">reach out</a> if there's a potential match!</p>
 
+<p><a class="email-btn" href="mailto:jiamiansc@gmail.com"><i class="fas fa-envelope"></i>&nbsp; Email me</a></p>
+
 
 ## Experience
 
