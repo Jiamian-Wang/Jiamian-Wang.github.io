@@ -15,14 +15,14 @@ Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing 
 
 My research focuses on visual understanding and reasoning. My initial works in computational imaging and image super-resolution develop more interpretable, robust, and efficient methods to enhance visual data compression and reconstruction. My recent research studies vision and language semantics gap modeling and alignment upon encoder/decoder-based VLMs (*e.g.*, text-video retrieval). My ongoing research develops agents for multi-turn and multimodal tool calling. My ultimate goal is to develop intelligent systems that can (1) explore visual uncertainty (knowing the unknown), (2) address visual uncertainty (acting on the unknown), and (3) exploit visual uncertainty (benefiting from the unknown) for improved performance, trustworthiness, and reduced hallucination.
 
-> **I expect to graduate in Fall 2026 and am actively seeking full-time and student researcher opportunities. Feel free to [reach out](mailto:jiamiansc@gmail.com) if there's a potential match!**
+<p style="color:#b01b2e; font-weight:600; font-size:1.05em; border-left:4px solid #b01b2e; padding-left:0.85em; margin:1.3em 0;">I expect to graduate in Fall 2026 and am actively seeking full-time and student researcher opportunities. Feel free to <a href="mailto:jiamiansc@gmail.com" style="color:#b01b2e; text-decoration:underline;">reach out</a> if there's a potential match!</p>
 
 
 ## Experience
-- **NVIDIA**, Santa Clara, CA — *Deep Learning Intern* (May 2026 – Aug 2026). Developing OPD-based solutions for VLA-based autonomous-driving model post-training.
-- **Adobe Research**, Document Intelligence Lab, San Jose, CA — *Research Scientist Intern* (May 2025 – Mar 2026). Built an agent for multi-turn, multimodal document retrieval and question-answering, including an automated and scalable data-curation pipeline and a complete search-agent training/deployment infrastructure. Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/).
-- **Bosch Center for Artificial Intelligence**, Pittsburgh, PA — *Machine Learning Research Intern* (May 2024 – Nov 2024). Developed visual autoregressive models for low-level vision, studying error accumulation in next-token prediction and a post-processing solution for better visual quality and coherence. Mentors: [Chen Qiu](https://scholar.google.com/citations?user=uX5Y9XUAAAAJ&hl=en), [Chaithanya Kumar Mummadi](https://scholar.google.com/citations?user=XJLtaG4AAAAJ&hl=en).
-- **SenseBrain Technology (SenseTime)**, San Jose, CA — *Research Intern* (Jun 2022 – Aug 2022). Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
+- [**NVIDIA**](https://www.nvidia.com/en-us/industries/automotive/), Santa Clara, CA — *Deep Learning Intern* (May 2026 – Aug 2026). Developing OPD-based solutions for VLA-based autonomous-driving model post-training.
+- [**Adobe Research**](https://research.adobe.com/), Document Intelligence Lab, San Jose, CA — *Research Scientist Intern* (May 2025 – Mar 2026). Built an agent for multi-turn, multimodal document retrieval and question-answering, including an automated and scalable data-curation pipeline and a complete search-agent training/deployment infrastructure. Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/).
+- [**Bosch Center for Artificial Intelligence**](https://www.linkedin.com/company/bosch-center-for-artificial-intelligence-bcai/posts/?feedView=all), Pittsburgh, PA — *Machine Learning Research Intern* (May 2024 – Nov 2024). Developed visual autoregressive models for low-level vision, studying error accumulation in next-token prediction and a post-processing solution for better visual quality and coherence. Mentors: [Chen Qiu](https://scholar.google.com/citations?user=uX5Y9XUAAAAJ&hl=en), [Chaithanya Kumar Mummadi](https://scholar.google.com/citations?user=XJLtaG4AAAAJ&hl=en).
+- [**SenseBrain Technology (SenseTime)**](https://www.sensetime.com/en), San Jose, CA — *Research Intern* (Jun 2022 – Aug 2022). Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
 
 
 ## News
@@ -73,6 +73,14 @@ My research focuses on visual understanding and reasoning. My initial works in c
 ## Selected Publications and Preprints
 
 For a complete list, see the <a href="/publications/">Publications</a> page or my <a href="https://scholar.google.com/citations?user=MGSkEscAAAAJ&hl=en">Google Scholar</a>.
+
+<p style="font-size:0.85em; color:#6a737d;">Link colors:
+<span style="color:#b01b2e;">&#9632; paper / PDF</span> &nbsp;
+<span style="color:#6f42c1;">&#9632; code</span> &nbsp;
+<span style="color:#138d75;">&#9632; demo</span> &nbsp;
+<span style="color:#c4302b;">&#9632; video</span> &nbsp;
+<span style="color:#2a6fb0;">&#9632; general / institution</span>
+</p>
 
 <table style="border: none; border-collapse: collapse;">
 
