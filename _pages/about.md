@@ -11,13 +11,31 @@ redirect_from:
 ## About Me
 
 
-Greetings! I'm Jiamian Wang, a student at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr.Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
+Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr. Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
 
-My research primarily revolves around low-level vision tasks, such as image super-resolution. I am engaged in enhancing the trustworthiness, robustness, and performance of snapshot compressive imaging systems (SCI). My recent work delves into harnessing the power of diffusion models for both low-level vision tasks and high-level multi-modal retrieval task.
+My research focuses on visual understanding and reasoning. My initial works in computational imaging and image super-resolution develop more interpretable, robust, and efficient methods to enhance visual data compression and reconstruction. My recent research studies vision and language semantics gap modeling and alignment upon encoder/decoder-based VLMs (*e.g.*, text-video retrieval). My ongoing research develops agents for multi-turn and multimodal tool calling. My ultimate goal is to develop intelligent systems that can (1) explore visual uncertainty (knowing the unknown), (2) address visual uncertainty (acting on the unknown), and (3) exploit visual uncertainty (benefiting from the unknown) for improved performance, trustworthiness, and reduced hallucination.
 
+> **I expect to graduate in Fall 2026 and am actively seeking full-time and student researcher opportunities. Feel free to [reach out](mailto:jiamiansc@gmail.com) if there's a potential match!**
+
+
+## Experience
+- **NVIDIA**, Santa Clara, CA — *Deep Learning Intern* (May 2026 – Aug 2026). Developing OPD-based solutions for VLA-based autonomous-driving model post-training.
+- **Adobe Research**, Document Intelligence Lab, San Jose, CA — *Research Scientist Intern* (May 2025 – Mar 2026). Built an agent for multi-turn, multimodal document retrieval and question-answering, including an automated and scalable data-curation pipeline and a complete search-agent training/deployment infrastructure. Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/).
+- **Bosch Center for Artificial Intelligence**, Pittsburgh, PA — *Machine Learning Research Intern* (May 2024 – Nov 2024). Developed visual autoregressive models for low-level vision, studying error accumulation in next-token prediction and a post-processing solution for better visual quality and coherence. Mentors: [Chen Qiu](https://scholar.google.com/citations?user=uX5Y9XUAAAAJ&hl=en), [Chaithanya Kumar Mummadi](https://scholar.google.com/citations?user=XJLtaG4AAAAJ&hl=en).
+- **SenseBrain Technology (SenseTime)**, San Jose, CA — *Research Intern* (Jun 2022 – Aug 2022). Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
 
 
 ## News
+2026.05: I started as a Deep Learning Intern at **NVIDIA**, working on VLA-based autonomous-driving model post-training.
+
+2026: **[IROS'26]** Two papers accepted to IROS 2026: *Latent-Centroid Steering* for command-aligned autonomous driving, and *Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization* for low-level image perception.
+
+2025: **[EMNLP'25]** Two papers accepted to EMNLP 2025: *Visual Self-Refinement for Autoregressive Models* (Findings) and *X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning* (Main).
+
+2025: **[TPAMI]** *S²-Transformer for Mask-Aware Hyperspectral Image Reconstruction* accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+2025.05: I joined **Adobe Research** (Document Intelligence Lab) as a Research Scientist Intern, working on agents for multimodal document retrieval and question-answering.
+
 2024.10: **[NeurIPS'24]** I received NeurIPS'24 Travel Award. Thanks to [NeurIPS](https://neurips.cc/) and looking forward to visiting Vancouver!
 
 2024.09: **[NeurIPS'24]** Two papers are accepted by NeurIPS 2024. One is [FedHP](https://arxiv.org/pdf/2306.01176.pdf), in which we developed a federated learning framework to effectively cooperate cross-silo computational imaging systems without breaking the privacy concern. One is about text-video retrieval, where we devised a diffusion-inspired iterative alignment process to solve for the multimodal modality gap and achieves encouraging performance. Code, pretrained models, and the manuscript will be released soon!
@@ -32,7 +50,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 2024.03: I will join Bosch Research and Technology Center as a research intern, focusing on autoregressive image generation, starting from May 2024.
 
-2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024 as Highlight (11.9%). Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf) and the [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval).
+2024.02: **[CVPR'24]** One paper on multi-modality text-video retrieval is accepted by CVPR 2024 as Highlight (2.8%). Check out the [manuscript](https://arxiv.org/pdf/2403.17998.pdf) and the [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval).
 
 2024.02: I will serve as a reviewer for ECCV 2024.
 
@@ -50,7 +68,69 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 ## Selected Publications and Preprints
 
+For a complete list, see the <a href="/publications/">Publications</a> page or my <a href="https://scholar.google.com/citations?user=MGSkEscAAAAJ&hl=en">Google Scholar</a>.
+
 <table style="border: none; border-collapse: collapse;">
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <!-- TODO: replace placeholder with a DocArena figure -->
+    <img src="/images/500x300.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents.<br>
+    <b>Jiamian Wang</b>, Ruiyi Zhang, Tong Yu, Jing Shi, Samyadeep Basu, Rajiv Jain, Zhiqiang Tao, Tong Sun.<br>
+    <b>Preprint</b>, 2025.<br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://drive.google.com/file/d/1HgomrTu4acObIiKn0u01xWaraJVs9JJW/view?usp=sharing">PDF</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <!-- TODO: replace placeholder with a Visual Self-Refinement figure -->
+    <img src="/images/500x300.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Visual Self-Refinement for Autoregressive Models.<br>
+    <b>Jiamian Wang</b>, Ziqi Zhou, Chaithanya Kumar Mummadi, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Chen Qiu, Zhiqiang Tao.<br>
+    <b>EMNLP Findings</b>, 2025.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2510.00993">Paper</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <!-- TODO: replace placeholder with an X-CoT figure -->
+    <img src="/images/500x300.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning.<br>
+    Prasanna Reddy Pulakurthi, <b>Jiamian Wang</b>, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Zhiqiang Tao.<br>
+    <b>EMNLP Main</b>, 2025.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2509.21559">Paper</a></span><br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://prasannapulakurthi.github.io/X-CoT/">Demo</a></span><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <!-- TODO: replace placeholder with a DiffTS figure -->
+    <img src="/images/500x300.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Diffusion-Inspired Truncated Sampler for Text-Video Retrieval.<br>
+    <b>Jiamian Wang</b>, Pichao Wang, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
+    <b>NeurIPS</b>, 2024. (<b>NeurIPS 2024 Scholar Award</b>)<br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://openreview.net/pdf?id=SrQua0ATRZ">Paper</a></span><br>
+    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
+    <span><a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95072.png?t=1731809505.9690995">Poster</a></span><br>
+  </td>
+</tr>
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
@@ -59,7 +139,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
   <td style="border-collapse: collapse; border: none;">
     Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval.<br>
     <b>Jiamian Wang</b>, Guohao Sun, Pichao Wang, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao.<br>
-    <b>CVPR Highlight (11.9%)</b>, 2024.<br>
+    <b>CVPR Highlight (2.8%)</b>, 2024.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Paper</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
@@ -108,7 +188,7 @@ My research primarily revolves around low-level vision tasks, such as image supe
   <td style="border-collapse: collapse; border: none;">
     Iterative Soft Shrinkage Learning for Efficient Image Super-Resolution.<br>
     <b>Jiamian Wang</b>, Huan Wang, Yulun Zhang, Yun Fu, Zhiqiang Tao.<br>
-    <b>ICCV Poster (26.15%)</b>, 2023.<br>
+    <b>ICCV</b>, 2023.<br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2303.09650.pdf">Paper</a></span><br>
     <img src="/images/github_icon.png" width="20" height="20" hspace="5">
@@ -188,6 +268,6 @@ My research primarily revolves around low-level vision tasks, such as image supe
 
 
 ## Professional Services
-- Journal Reviewer: TPAMI, PR, JSTSP, IJCV, TIP, TNNLS, TETCI, Neurocomputing.
-- Conference Reviewer: NIPS2024, CVPR2024, ECCV2024, ICML2024, CIKM 2021-2023, ACM SIGKDD 2022-2023.
+- **Conference Reviewer:** ICLR (2024–2026), CVPR (2024–2026), NeurIPS (2024–2026), AAAI (2023–2025), ECCV (2024, 2026), ICML (2024–2026), CIKM (2021–2023), ACM SIGKDD (2022–2023).
+- **Journal Reviewer:** TPAMI, IJCV, TIP, TNNLS, TMM, TCSVT, Pattern Recognition, TETCI.
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiamian Wang personal website"
 title_separator          : "-"
 name                     : &name "Jiamian Wang"
-description              : &description "personal description"
+description              : &description "Personal website of Jiamian Wang, a Ph.D. candidate at Rochester Institute of Technology working on visual understanding and reasoning, vision-language models, and multimodal agents."
 url                      : https://Jiamian-Wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jiamian-Wang/Jiamian-Wang.github.io"
@@ -55,7 +55,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
- Social Sharing
+# Social Sharing
 twitter:
   username               : # &twitter
 facebook:
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "jiamian-wang-5928b81ba"
   orcid            : "https://orcid.org/0000-0002-0074-0274"
   pinterest        :
   soundcloud       :
