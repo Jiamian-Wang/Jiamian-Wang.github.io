@@ -183,8 +183,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <!-- TODO: replace placeholder with a DiffTS figure -->
-    <img src="/images/500x300.png" width="280" />
+    <img src="/images/papers/DITS_framework.png" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Diffusion-Inspired Truncated Sampler for Text-Video Retrieval.<br>
