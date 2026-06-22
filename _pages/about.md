@@ -16,7 +16,7 @@ My research focuses on visual understanding and reasoning. My initial works in c
 
 Building on these focuses, my latest research interest spans the **3 A's** — **Agent**, **Algorithm**, and **Autonomy** — and the concrete problems they raise: How can we build scalable and controllable *environments* that teach an **agent** to perceive, reason, and act across multi-turn, multimodal interactions, and how should we *train* such agents? What post-training **algorithms** — e.g., Bayesian-grounded ones — can push the rich signals from these environments into the agent more efficiently and losslessly? And, toward **autonomy**, can we develop autonomous agents that one day help human drivers make safer, real-time decisions? I'm always glad to discuss these areas — and their intersections — so feel free to reach out!
 
-<p class="job-note">I expect to graduate in Fall 2026 and am actively seeking full-time opportunities. Feel free to <a href="mailto:jiamiansc@gmail.com">reach out</a> if there's a potential match!</p>
+<p class="job-note">I expect to graduate in 2026 and am actively seeking full-time opportunities. Feel free to reach out if there's a potential match!</p>
 
 <p><a class="email-btn" href="mailto:jiamiansc@gmail.com"><i class="fas fa-envelope"></i>&nbsp; Email me</a></p>
 
