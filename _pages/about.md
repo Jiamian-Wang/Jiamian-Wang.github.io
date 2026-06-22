@@ -26,6 +26,8 @@ My research focuses on visual understanding and reasoning. My initial works in c
 
 
 ## News
+<div markdown="1" style="max-height: 320px; overflow-y: auto; padding: 12px 16px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #fafbfc;">
+
 2026.05: I started as a Deep Learning Intern at **NVIDIA**, working on VLA-based autonomous-driving model post-training.
 
 2026: **[IROS'26]** Two papers accepted to IROS 2026: *Latent-Centroid Steering* for command-aligned autonomous driving, and *Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization* for low-level image perception.
@@ -66,11 +68,39 @@ My research focuses on visual understanding and reasoning. My initial works in c
 
 2022.06. **[ECCV'22]** One paper on uncertainty quantification on SCI system is accpeted as an Oral paper by ECCV 2022 (2.7%). Check out the [manuscript](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790109.pdf) and the [code](https://github.com/Jiamian-Wang/mask_uncertainty_spectral_SCI).
 
+</div>
+
 ## Selected Publications and Preprints
 
 For a complete list, see the <a href="/publications/">Publications</a> page or my <a href="https://scholar.google.com/citations?user=MGSkEscAAAAJ&hl=en">Google Scholar</a>.
 
 <table style="border: none; border-collapse: collapse;">
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <!-- TODO: replace placeholder with figure -->
+    <img src="/images/500x300.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving.<br>
+    Meibo Hu, <b>Jiamian Wang</b>, Pichao Wang, Zhiqiang Tao.<br>
+    <b>IROS</b>, 2026. (Contributed Paper)<br>
+    <i>Paper and code coming soon.</i><br>
+  </td>
+</tr>
+
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <!-- TODO: replace placeholder with figure -->
+    <img src="/images/500x300.png" width="280" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization for Low-Level Image Perception.<br>
+    Ziqi Zhou, <b>Jiamian Wang</b>, Chen Qiu, Chaithanya Kumar Mummadi, Qi Yu, Zhiqiang Tao.<br>
+    <b>IROS</b>, 2026. (Contributed Paper)<br>
+    <i>Paper and code coming soon.</i><br>
+  </td>
+</tr>
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
@@ -111,6 +141,8 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
     <b>EMNLP Main</b>, 2025.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2509.21559">Paper</a></span><br>
+    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/prasannapulakurthi/X-CoT">Code</a></span><br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
     <span><a href="https://prasannapulakurthi.github.io/X-CoT/">Demo</a></span><br>
   </td>
@@ -142,8 +174,6 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
     <b>CVPR Highlight (2.8%)</b>, 2024.<br>
     <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://arxiv.org/pdf/2403.17998.pdf">Paper</a></span><br>
-    <img src="/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval">Code</a></span><br>
     <img src="/images/youtube_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://www.youtube.com/watch?v=Uvw1EcdZ_a0">Video</a></span><br>
     <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
