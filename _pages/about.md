@@ -95,13 +95,13 @@ Building on these focuses, my latest research interest spans the **3 A's** — *
 
 ## Selected Publications and Preprints
 
-For a complete list, see the <a href="/publications/">Publications</a> page or my <a href="https://scholar.google.com/citations?user=MGSkEscAAAAJ&hl=en">Google Scholar</a>.
+For a complete list, please see my <a href="https://scholar.google.com/citations?user=MGSkEscAAAAJ&hl=en">Google Scholar</a>.
 
 <table style="border: none; border-collapse: collapse;">
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/LatentCentroid_framework.png" width="280" />
+    <img src="/images/papers/LatentCentroid_framework.png?v=2" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving.<br>
@@ -113,7 +113,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/VisualAR_framework.png" width="280" />
+    <img src="/images/papers/VisualAR_framework.png?v=2" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization for Low-Level Image Perception.<br>
@@ -125,7 +125,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/DocArena_framework.png" width="280" />
+    <img src="/images/papers/DocArena_framework.png?v=2" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents.<br>
@@ -138,7 +138,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/VisualSelfRefine_framework.png" width="280" />
+    <img src="/images/papers/VisualSelfRefine_framework.png?v=2" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Visual Self-Refinement for Autoregressive Models.<br>
@@ -151,7 +151,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/XCoT_framework.png" width="280" />
+    <img src="/images/papers/XCoT_framework.png?v=2" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning.<br>
@@ -183,7 +183,7 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="/images/papers/DITS_framework.png" width="280" />
+    <img src="/images/papers/DITS_framework.png?v=2" width="280" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     Diffusion-Inspired Truncated Sampler for Text-Video Retrieval.<br>
