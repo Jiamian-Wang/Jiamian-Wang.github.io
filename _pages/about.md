@@ -10,6 +10,12 @@ redirect_from:
 ---
 ## About Me
 
+My current work spans three interconnected directions — the **3 A's**:
+- **Agent** — environment building and training for multimodal, multi-turn agents.
+- **Algorithm** — algorithmic improvements, including Bayesian-grounded methods.
+- **Autonomy** — post-training for autonomous-driving scenarios and solving real-world problems.
+
+I'm always glad to discuss these areas — and their intersections. Feel free to reach out!
 
 Greetings! I'm Jiamian Wang, a Ph.D. candidate at Golisano College of Computing and Information Sciences, Rochester Institute of Technology, under the guidance of Dr. [Zhiqiang Tao](https://ztao.cc/index.html). Prior to joining RIT, I spent one year in the Department of Computer Science and Engineering at Santa Clara University (San Jose, USA) with Dr. Tao. I received my M.S. degree from University of Southern California (Los Angeles, USA) in 2020 and B.E. degree from Tianjin University (Tianjin, China) in 2018.
 
@@ -19,24 +25,43 @@ My research focuses on visual understanding and reasoning. My initial works in c
 
 
 ## Experience
-- [**NVIDIA**](https://www.nvidia.com/en-us/industries/automotive/), Santa Clara, CA — *Deep Learning Intern* (May 2026 – Aug 2026). Developing OPD-based solutions for VLA-based autonomous-driving model post-training.
-- [**Adobe Research**](https://research.adobe.com/), Document Intelligence Lab, San Jose, CA — *Research Scientist Intern* (May 2025 – Mar 2026). Built an agent for multi-turn, multimodal document retrieval and question-answering, including an automated and scalable data-curation pipeline and a complete search-agent training/deployment infrastructure. Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/).
-- [**Bosch Center for Artificial Intelligence**](https://www.linkedin.com/company/bosch-center-for-artificial-intelligence-bcai/posts/?feedView=all), Pittsburgh, PA — *Machine Learning Research Intern* (May 2024 – Nov 2024). Developed visual autoregressive models for low-level vision, studying error accumulation in next-token prediction and a post-processing solution for better visual quality and coherence. Mentors: [Chen Qiu](https://scholar.google.com/citations?user=uX5Y9XUAAAAJ&hl=en), [Chaithanya Kumar Mummadi](https://scholar.google.com/citations?user=XJLtaG4AAAAJ&hl=en).
-- [**SenseBrain Technology (SenseTime)**](https://www.sensetime.com/en), San Jose, CA — *Research Intern* (Jun 2022 – Aug 2022). Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
+
+- [**NVIDIA**](https://www.nvidia.com/en-us/industries/automotive/) — *Deep Learning Intern*
+  - Santa Clara, CA · May 2026 – Aug 2026
+  - Developing OPD-based solutions for VLA-based autonomous-driving model post-training.
+
+- [**Adobe Research**](https://research.adobe.com/) (Document Intelligence Lab) — *Research Scientist Intern*
+  - San Jose, CA · May 2025 – Mar 2026
+  - Mentors: [Ruiyi Zhang](https://scholar.google.com/citations?user=-seCWbAAAAAJ&hl=en), [Tong Sun](https://research.adobe.com/person/tong-sun/)
+  - Built an agent for multi-turn, multimodal document retrieval and question-answering:
+    - an automated, customized, and scalable data-curation pipeline;
+    - a complete search-agent training and deployment infrastructure;
+    - a search agent built upon the curated data and infrastructure.
+
+- [**Bosch Center for Artificial Intelligence**](https://www.linkedin.com/company/bosch-center-for-artificial-intelligence-bcai/posts/?feedView=all) — *Machine Learning Research Intern*
+  - Pittsburgh, PA · May 2024 – Nov 2024
+  - Mentors: [Chen Qiu](https://scholar.google.com/citations?user=uX5Y9XUAAAAJ&hl=en), [Chaithanya Kumar Mummadi](https://scholar.google.com/citations?user=XJLtaG4AAAAJ&hl=en)
+  - Developed visual autoregressive models for low-level vision, studying error accumulation in next-token prediction and a post-processing solution for better visual quality and coherence.
+
+- [**SenseBrain Technology (SenseTime)**](https://www.sensetime.com/en) — *Research Intern*
+  - San Jose, CA · Jun 2022 – Aug 2022
+  - Developed a one-shot over-exposure pixel calibration method compatible with the quad Bayer sensor (Sony).
 
 
 ## News
 <div markdown="1" style="max-height: 320px; overflow-y: auto; padding: 12px 16px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #fafbfc;">
 
+2026.06: **[IROS'26]** Two papers accepted to IROS 2026: *Latent-Centroid Steering* for command-aligned autonomous driving, and *Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization* for low-level image perception.
+
 2026.05: I started as a Deep Learning Intern at **NVIDIA**, working on VLA-based autonomous-driving model post-training.
 
-2026: **[IROS'26]** Two papers accepted to IROS 2026: *Latent-Centroid Steering* for command-aligned autonomous driving, and *Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization* for low-level image perception.
+2025.10: I passed my Ph.D. proposal defense!
 
-2025: **[EMNLP'25]** Two papers accepted to EMNLP 2025: *Visual Self-Refinement for Autoregressive Models* (Findings) and *X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning* (Main).
-
-2025: **[TPAMI]** *S²-Transformer for Mask-Aware Hyperspectral Image Reconstruction* accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence.
+2025.08: **[EMNLP'25]** Two papers accepted to EMNLP 2025: *Visual Self-Refinement for Autoregressive Models* (Findings) and *X-CoT: Explainable Text-to-Video Retrieval via LLM-based Chain-of-Thought Reasoning* (Main).
 
 2025.05: I joined **Adobe Research** (Document Intelligence Lab) as a Research Scientist Intern, working on agents for multimodal document retrieval and question-answering.
+
+2025.02: **[TPAMI]** *S²-Transformer for Mask-Aware Hyperspectral Image Reconstruction* accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 2024.10: **[NeurIPS'24]** I received NeurIPS'24 Travel Award. Thanks to [NeurIPS](https://neurips.cc/) and looking forward to visiting Vancouver!
 
@@ -73,14 +98,6 @@ My research focuses on visual understanding and reasoning. My initial works in c
 ## Selected Publications and Preprints
 
 For a complete list, see the <a href="/publications/">Publications</a> page or my <a href="https://scholar.google.com/citations?user=MGSkEscAAAAJ&hl=en">Google Scholar</a>.
-
-<p style="font-size:0.85em; color:#6a737d;">Link colors:
-<span style="color:#b01b2e;">&#9632; paper / PDF</span> &nbsp;
-<span style="color:#6f42c1;">&#9632; code</span> &nbsp;
-<span style="color:#138d75;">&#9632; demo</span> &nbsp;
-<span style="color:#c4302b;">&#9632; video</span> &nbsp;
-<span style="color:#2a6fb0;">&#9632; general / institution</span>
-</p>
 
 <table style="border: none; border-collapse: collapse;">
 
@@ -308,4 +325,9 @@ For a complete list, see the <a href="/publications/">Publications</a> page or m
 ## Professional Services
 - **Conference Reviewer:** ICLR (2024–2026), CVPR (2024–2026), NeurIPS (2024–2026), AAAI (2023–2025), ECCV (2024, 2026), ICML (2024–2026), CIKM (2021–2023), ACM SIGKDD (2022–2023).
 - **Journal Reviewer:** TPAMI, IJCV, TIP, TNNLS, TMM, TCSVT, Pattern Recognition, TETCI.
+
+## Hobbies
+Outside of research, I enjoy:
+- Swimming
+- Kayaking
 

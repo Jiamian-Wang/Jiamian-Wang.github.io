@@ -70,7 +70,12 @@
   .page__content b { font-weight: 600; }
 
   /* ===== Wider content, smaller left/right margins ===== */
-  #main { max-width: 1400px !important; }
+  #main { max-width: 1600px !important; }
+  /* On wide screens the theme reserves a large empty right inset on .page
+     (susy suffix). Trim it so text uses more width, with only a small right margin. */
+  @media (min-width: 1600px) {
+    .page { padding-right: 1.5% !important; }
+  }
 
   /* ===== Larger author avatar ===== */
   @media (min-width: 48em) {
