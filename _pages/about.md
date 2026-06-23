@@ -10,11 +10,11 @@ redirect_from:
 ---
 ## About Me
 
-Greetings! I'm Jiamian Wang, a final-year Ph.D. candidate at Rochester Institute of Technology (RIT), advised by Dr. [Zhiqiang Tao](https://ztao.cc/index.html) as his first Ph.D. student. I build systems that model and align visual–textual semantics under uncertainty. My research has appeared at **CVPR (Highlight), ECCV (Oral), NeurIPS, ICCV, and TPAMI**. Before RIT, I spent a year at Santa Clara University with Dr. Tao; I received my M.S. from USC (2020) and B.E. from Tianjin University (2018).
+Greetings! I'm Jiamian Wang, a final-year Ph.D. candidate at Rochester Institute of Technology (RIT), advised by Dr. [Zhiqiang Tao](https://ztao.cc/index.html) as his first Ph.D. student. My research focuses on visual understanding and reasoning, and has appeared at **CVPR (Highlight), ECCV (Oral), NeurIPS, ICCV, and TPAMI**. Before RIT, I spent a year at Santa Clara University with Dr. Tao; I received my M.S. from USC (2020) and B.E. from Tianjin University (2018).
 
-For a short, rough sketch of my research directions, see my [Research](/research/) page.
+For a short, rough sketch of my recent research interests, see my [Research](/research/) page.
 
-<p class="job-note">I expect to graduate in 2026 and am actively seeking full-time opportunities. Feel free to reach out if there's a potential match!</p>
+<p class="job-note">I expect to graduate in 2026 and am actively seeking full-time opportunities. Feel free to reach out if there's a potential match.</p>
 
 <p><a class="email-btn" href="mailto:jiamiansc@gmail.com"><i class="fas fa-envelope"></i>&nbsp; Email me</a></p>
 
