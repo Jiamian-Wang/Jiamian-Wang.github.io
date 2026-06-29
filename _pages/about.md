@@ -47,6 +47,8 @@ For a short, rough sketch of my recent research interests, see my [Research](/re
 ## News
 <div class="news-box" markdown="1">
 
+2026.06: **[arXiv]** *DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents* is now available on [arXiv](https://arxiv.org/abs/2606.26122)!
+
 2026.06: **[IROS'26]** Two papers accepted to IROS 2026: *Latent-Centroid Steering* for command-aligned autonomous driving, and *Visual Autoregressive Modeling Through Online Multi-Scale Preference Optimization* for low-level image perception.
 
 2026.05: I started as a Deep Learning Intern at **NVIDIA**, working on VLA-based autonomous-driving model post-training.
@@ -128,9 +130,9 @@ For a complete list, please see my <a href="https://scholar.google.com/citations
   <td style="border-collapse: collapse; border: none;">
     DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents.<br>
     <b>Jiamian Wang</b>, Ruiyi Zhang, Tong Yu, Jing Shi, Samyadeep Basu, Rajiv Jain, Zhiqiang Tao, Tong Sun.<br>
-    <b>Preprint</b>, 2025. <i>(arXiv coming soon)</i><br>
-    <img src="/images/pdf_icon.jpeg" width="20" height="20" hspace="5">
-    <span><a href="https://drive.google.com/file/d/1HgomrTu4acObIiKn0u01xWaraJVs9JJW/view?usp=sharing">PDF</a></span><br>
+    <b>Preprint</b>, 2025.<br>
+    <img src="/images/arxiv_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/pdf/2606.26122">Paper</a></span><br>
   </td>
 </tr>
 
